@@ -1,6 +1,4 @@
-Here it is, ready to copy-paste:
 
-```
 # AI-Based Garbage Detection System
 
 A simple CNN model that looks at a photo and tells you whether the area is clean or has garbage in it. Built this as our final project for the Artificial Intelligence course — nothing fancy, just a straightforward image classifier trained on pictures we took ourselves around campus, the hostel, streets, and local markets.
