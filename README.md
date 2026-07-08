@@ -37,9 +37,9 @@ Spread across streets, the hostel/campus, parks, near garbage bins, and local ma
 ├── predict.py         # run predictions from the command line
 ├── app.py              # Streamlit web app
 ├── dataset/
-│   ├── clean/
-│   └── garbage/
-└── garbage_detector_bscs24011.pdf   # full project report
+  ├── clean/
+  └── garbage/
+
 ```
 
 ## Running it yourself
